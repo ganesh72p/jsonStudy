@@ -12,7 +12,7 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 
 public class jsonCompareExample {
-
+//Two json file comparison
 @Test
 public void myTest() throws FileNotFoundException, JSONException {
 	
